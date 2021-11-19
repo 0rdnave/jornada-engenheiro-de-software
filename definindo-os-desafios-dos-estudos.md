@@ -1,11 +1,11 @@
 # ⭐ Definindo os desafios dos estudos
 
-Para praticar e fixar alguns conceitos que você ira aprender é muito importante que tenhamos um objetivo, assim tudo que aprender será encima de um cenário real. 
+Para praticar e fixar alguns conceitos que você irá aprender é muito importante que tenhamos um objetivo, assim tudo que aprender será em cima de um cenário real. 
 
 ------------------------
 
 - [⭐ Definindo os desafios dos estudos](#-definindo-os-desafios-dos-estudos)
-	- [❓ Oque é possível fazer com tecnologia](#-oque-é-possível-fazer-com-tecnologia)
+	- [❓ O que é possível fazer com tecnologia](#-oque-é-possível-fazer-com-tecnologia)
 	- [✔️ Pense em 5 problemas diferentes](#️-pense-em-5-problemas-diferentes)
 		- [Como resolver esses problemas usando tecnologia](#como-resolver-esses-problemas-usando-tecnologia)
 	- [🏗️ Pense em soluções não em tecnologia](#️-pense-em-soluções-não-em-tecnologia)
@@ -15,7 +15,7 @@ Para praticar e fixar alguns conceitos que você ira aprender é muito important
 
 ## ❓ Oque é possível fazer com tecnologia
 
-Estude sobre oque já conseguimos fazer hoje, e quais as previsões para os próximos anos. Quando falamos sobre imaginar oque podemos fazer com tecnologia um pensamento muito famoso são as [Leis de Clarke](https://pt.wikipedia.org/wiki/Leis_de_Clarke):
+Estude sobre o que já conseguimos fazer hoje, e quais as previsões para os próximos anos. Quando falamos sobre imaginar o que podemos fazer com tecnologia um pensamento muito famoso são as [Leis de Clarke](https://pt.wikipedia.org/wiki/Leis_de_Clarke):
 
 > 1. "*Quando um cientista distinto e experiente diz que algo é possível, é quase certeza que tem razão. Quando ele diz que algo é impossível, ele está muito provavelmente errado.*"
 
@@ -25,7 +25,7 @@ Estude sobre oque já conseguimos fazer hoje, e quais as previsões para os pró
 
 ## ✔️ Pense em 5 problemas diferentes
 
-Pense em problemas que você possa de alguma forma contribuir para a solução deles, usando tecnologia esses problemas podem ser do seu dia-a-dia, ou até mesmo problemas da humanidade, por exemplo:
+Pense em problemas que você possa de alguma forma contribuir para a solução deles, usando tecnologia esses problemas podem ser do seu dia a dia, ou até mesmo problemas da humanidade, por exemplo:
 
 * **Problema pessoal**: Falta de organização do tempo
 
@@ -45,7 +45,7 @@ Caso não consiga encontrar problemas, busque contribuir na solução de problem
 
 ### Como resolver esses problemas usando tecnologia
 
-Sua solução não precisa ser a causa mais nobre, porem tem que ser algo útil. Exercite sua imaginação, não limite-se apenas ao que já conhece afinal a ideia é aprender com o desafio. Você pode criar desde apps, software que podem ajudar não só a você como também outras pessoas até Inteligência artificial, IoT automatizando hardwares etc... por exemplo:
+Sua solução não precisa ser a causa mais nobre, porém tem que ser algo útil. Exercite sua imaginação, não se limite apenas ao que já conhece afinal a ideia é aprender com o desafio. Você pode criar desde apps, software que podem ajudar não só a você como também outras pessoas até Inteligência artificial, IoT automatizando hardwares etc... por exemplo:
 
 * Criar um calendário digital para frente da geladeira
 * Criar uma automação de onboarding na empresa
@@ -59,7 +59,7 @@ Enfim filtre suas ideias levando em consideração se seu problema precisa de um
 
 ## 🧠 Objetivo de aprendizagem
 
-O Objetivo deste estudo é entender oque podemos fazer com tecnologia, saber que independente da dificuldade nada é impossível, e definir o primeiro desafio da nossa jornada.
+O Objetivo deste estudo é entender o que podemos fazer com tecnologia, saber que independente da dificuldade nada é impossível, e definir o primeiro desafio da nossa jornada.
 
 ## ✔️ Entrega mínima
 
